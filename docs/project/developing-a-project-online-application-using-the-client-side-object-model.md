@@ -88,7 +88,7 @@ The application setup consists of creating a new project, linking the appropriat
     
 #### Add assemblies
 
-The VS solution needs the ProjectServerClient assembly from the Project 2103 SDK, a couple of assemblies from the SharePoint SDK, and the .NET Framework System.Security assembly.
+The VS solution needs the ProjectServerClient assembly from the Project 2013 SDK, a couple of assemblies from the SharePoint SDK, and the .NET Framework System.Security assembly.
   
 1. In the VS Solution Explorer, right-click the References entry, and select **Add Reference…** from the shortcut menu. 
     
